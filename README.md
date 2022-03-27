@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my Bootcamp Final Project: https://github.com/ShazarHub/Final-Project-
-- 🌱 I’m currently learning AWS Redshift/Spectrum
+- 🌱 I’m currently learning AWS Redshift/Spectrum, Apache Airflow
 - 👯 I’m looking to collaborate on cloud projects!
 - 🤔 I’m looking for help with finding a career as a Data Engineer!
 - 💬 Ask me about help with programming concepts!
